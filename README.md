@@ -1,6 +1,5 @@
 ================================================================================
-PerimeterGuard
-A Lightweight, Subscription-Free Home Perimeter Monitoring System
+PerimeterGuard: A Lightweight, Subscription-Free Home Perimeter Monitoring System
 ================================================================================
 
 Project Type : Semester Team Project
