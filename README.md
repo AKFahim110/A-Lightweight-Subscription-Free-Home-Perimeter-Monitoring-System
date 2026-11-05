@@ -1,0 +1,2 @@
+# A-Lightweight-Subscription-Free-Home-Perimeter-Monitoring-System
+This paper presents the design and implementation of a containerized, GPU-accelerated perimeter monitoring system targeted at residential and small-scale commercial deployments. The system integrates YOLO11s, a state-of-the-art single-stage object detector released by Ultralytics in 2024 [1], with the ByteTrack multi-object tracker
